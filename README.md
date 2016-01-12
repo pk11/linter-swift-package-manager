@@ -1,8 +1,8 @@
 ##  linter-swift-package-manager
 
-This package will lint your .swift opened files in Atom through Swift Package Manager (SPM).
+This package will lint your .swift files in Atom through Swift Package Manager (SPM).
 
-Use bits and pieces from [linter-swiftc](https://github.com/AtomLinter/linter-swiftc) (thank you @kepler0!)
+Uses bits and pieces from [linter-swiftc](https://github.com/AtomLinter/linter-swiftc) (thank you @kepler0!)
 
 ## Installation
 ```
