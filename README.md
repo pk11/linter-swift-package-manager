@@ -11,7 +11,7 @@ $ apm install linter-swift-package-manager
 
 ## Settings
 
-You can configure linter-javac by editing `~/.atom/config.cson` (choose Open
+You can configure linter-swift-package-manager by editing `~/.atom/config.cson` (choose Open
 Your Config in Atom menu):
 
 ```coffeescript

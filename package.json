@@ -2,9 +2,9 @@
   "name": "linter-swift-package-manager",
   "activationCommands": [],
   "main": "./init.coffee",
-  "version": "2.0.0",
+  "version":  "0.0.0",
   "description": "Lint Swift using Swift Package Manager",
-  "repository": "https://github.com/AtomLinter/linter-swift-package-manager",
+  "repository": "https://github.com/pk11/linter-swift-package-manager",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
